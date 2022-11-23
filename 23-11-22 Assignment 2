@@ -1,0 +1,9 @@
+#given numbers are equal or not
+a=35
+b=34
+if a==b:
+    print('both are equal')
+else:
+    print('they are not equal')
+output:
+they are not equal
