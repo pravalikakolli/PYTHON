@@ -1,0 +1,8 @@
+#given number is positive or not
+a=-4
+if a>0:
+    print('a is positive')
+else:
+    print('a is negative')
+output:
+a is negative
