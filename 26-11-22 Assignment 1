@@ -1,0 +1,12 @@
+a=int(input('enter a value:'))
+b=int(input('enter b value:'))
+print('bitwise and',a&b)
+print('bitwise or',a|b)
+print('bitwise exclusive',a^b)
+
+output:
+enter a value:10
+enter b value:20
+bitwise and 0
+bitwise or 30
+bitwise exclusive 30
