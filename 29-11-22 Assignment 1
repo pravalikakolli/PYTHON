@@ -1,0 +1,23 @@
+sno=int(input('sno:'))
+sname=input('sname:')
+group=input('group:')
+s1=int(input('s1:'))
+s2=int(input('s2:'))
+s3=int(input('s3:'))
+if s1>=35:
+    if s2>=35:
+        if s3>=35:
+            print("pass")
+else:
+    print("FAIL")
+            
+output
+sno:16
+sname:geetu
+group:mccs
+s1:40
+s2:44
+s3:50
+pass
+
+            
